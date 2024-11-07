@@ -1,3 +1,5 @@
+/*Exibir Produtos Acima da Média: Crie um programa que exiba todos os produtos cujo preço é superior à média calculada.*/
+
 #include <stdio.h>
 
 #define MAX_PRODUTOS 100
