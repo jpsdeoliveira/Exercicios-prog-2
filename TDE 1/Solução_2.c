@@ -1,3 +1,5 @@
+/*Buscar Produto pelo ID: Implemente um programa que permita ao usuário buscar um produto pelo ID. Se o produto for encontrado, exiba suas informações; caso contrário, informe que não foi encontrado.*/
+
 #include <stdio.h>
 
 #define MAX_PRODUTOS 100
