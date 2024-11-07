@@ -1,3 +1,5 @@
+/*Contar Produtos Abaixo de um Valor: Crie um programa que conte quantos produtos têm um valor abaixo de um determinado valor fornecido pelo usuário.*/
+
 #include <stdio.h>
 
 #define MAX_PRODUTOS 100
