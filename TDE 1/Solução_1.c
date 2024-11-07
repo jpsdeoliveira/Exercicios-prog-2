@@ -20,10 +20,10 @@ int contarProdutosAbaixoDeValor(Produto produtos[], int n, float limite) {
 
 int main() {
     Produto produtos[MAX_PRODUTOS] = {
-        {1, "Produto 1", 10.5},
-        {2, "Produto 2", 20.0},
-        {3, "Produto 3", 30.0},
-        {4, "Produto 4", 5.5}
+        {1, "Arroz", 10.5},
+        {2, "Leite", 20.0},
+        {3, "Biscoito", 30.0},
+        {4, "Bala", 5.5}
     };
     int n = 4;
     float limite;
