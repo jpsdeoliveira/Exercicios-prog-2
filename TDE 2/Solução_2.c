@@ -4,6 +4,8 @@
 #include <string.h>
 #include <ctype.h>
 
+int main(void){
+
 char str1[100], str2[100];
 
     printf("Digite a primeira string: ");
