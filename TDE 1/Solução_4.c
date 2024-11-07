@@ -1,3 +1,5 @@
+/*Calcular Média de Preços: Implemente um programa que calcule e retorne a média dos preços dos produtos.*/
+
 #include <stdio.h>
 
 #define MAX_PRODUTOS 100
