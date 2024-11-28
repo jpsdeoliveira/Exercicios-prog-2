@@ -1,3 +1,3 @@
-# Exercicios-prog-2
+# -prog-2
 
-Tde Prog II
+Prog II
