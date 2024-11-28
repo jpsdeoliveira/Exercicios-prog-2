@@ -1,3 +1,3 @@
-# -prog-2
+# prog2
 
 Prog II
